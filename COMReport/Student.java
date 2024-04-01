@@ -30,6 +30,16 @@ public class Student{
         return firstName;
     }
 
+    public void setProgramCode(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setProgramCode'");
+    }
+
+    public String getProgramCode() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getProgramCode'");
+    }
+
 
 
 }
